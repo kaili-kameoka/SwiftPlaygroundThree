@@ -13,3 +13,22 @@ for name in fruitNames {
 
 print (fruitNames[1])
 
+// Problem Set 1
+var cars = [
+    "Koenigsegg CCXR Trevita ",
+    "Lamborghini Veneno",
+    "McLaren P1 LM",
+    "Lykan Hypersport",
+    "Aston Martin Valkyrie",
+    "Pagani Huayra BC",
+    "Bugatti Chiron",
+    "Ferrari LaFerrari Aperta"
+];
+
+for car in cars {
+    print("\(car) is a ver expensive car");
+}
+
+print(cars[0]);
+
+
